@@ -1,0 +1,18 @@
+@font-face {font-family: "iconfont";
+  src: url('./iconfont/iconfont.eot?t=1581912532462'); /* IE9 */
+  src: url('./iconfont/iconfont.eot?t=1581912532462#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPYAAsAAAAACDAAAAOLAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDMgqDQIMAATYCJAMUCwwABCAFhG0HVRsZBxEVnL/IvjqIx7imyqQtcwbXM/qN9vdlkpLW+Rw8YJ3fyyRTcSHpw1zoRJ8Ad8lbA6ABFgZv7bufDUHYCLOxmsW7k+g/JIUP6UvTg/5QQVNVgL//c7i4JT6/ZbnMtaioF2A0gbJszHEL7ADvQE7Uz4F46zIPQwAWqtEE0affkDGYUBijBCCWLJw/E1NKjqpJFZgQGEoWKkQ8OiYtQrsCxPm/Lz7RSphAQ5cYR42Y13cOPXx1fG9yhx9TZBA7xtMC3DKQQBNAgVhVql+CDP1NkFiU7ooegAUTGtpY7Y6+s+/N74/ZOxJazH94IFEINBAGjGQbAD2ogAJfHZsECb5W9DJBG5AgwDcogAbclxEsSNgE7MEQ1xmzs4ZAupTH7BVeGy7e7Ejehdqx2+qM2iv0gD1THLpzQnIdR+mB8uPTdpYd67zDobITU+ZlnIo6E3A68uR0Z9SpiukN5uy6aGq5eXuKGu+sKzanbtrRcG5KVFZAuXmpAeXnp2WWzr53b9z9++Pv3h17505AlSngjMHWM1OzdpaUHZuSXlxarp3k2Q23fYfD7Xhmf78ddnfTbbk9cmv/ynFVq+E+uGX/pqDSuX0Divd5tsV6l7+eZW3drnX7Nu3akPp1NthtnlkP668PCOk//5lp/apuI6DJ7PUnLtRjw6mj68t9L7vem7zg5Pm3+Xho3SffvZP75T6Guw/UmAoKIvd3j5dnz0qHE8dSQaMp4MQjP7pjZuPhZzf2GOYZ2IBhkAHS73ZAOwZ+2n8ZCZZrZY/f+Tdcfj23+XRnlz8mFQCPVrS6A5ufoj39nwhQGD+P0bJEqSxDoSu50KbLBp3mCTmaUmUBfpnZw7NxhGVbJ4PARNkYNIxUBYmJOgiFaQI6VtqAARPdwUJj+i+34mUVEqHMQCNCCAhcHAQNB2dA4uIqQmGegk45voABl5BgYZzwbmilHkS42VUwUywh/wdXcEuWSmdB6juaVGeSZPnYb5ToXHDY7rOhJ7YoY0yJP+aoSkDCDTzIcVjXDEHYY6Fbqxouux2VfdG24KYz61wFM8USyP8BV3BLbmWd5X7+HU2qM6kpqpB/o0TXOnBgy74F4slvWxVdyzPxxxxRJYCEG+BBtFibfgZCeT+PhW6xPbzhwo4qR2352/mFzTNuAiwdYzu9qwkplNCFgbWm4LJ28+dQbGtrxj7wKKcReT1tcqPIKSbudAAA') format('woff2'),
+  url('./iconfont/iconfont.woff?t=1581912532462') format('woff'),
+  url('./iconfont/iconfont.ttf?t=1581912532462') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('./iconfont/iconfont.svg?t=1581912532462#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
